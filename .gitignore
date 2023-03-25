@@ -3,3 +3,5 @@ venv
 .ipynb_checkpoints
 samples
 code*
+model*
+notes
