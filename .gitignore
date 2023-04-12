@@ -1,7 +1,9 @@
 .idea
 venv
+.venv
 .ipynb_checkpoints
 samples
 code*
 model*
+height*
 notes
